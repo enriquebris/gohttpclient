@@ -1,3 +1,5 @@
+[![godoc reference](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/enriquebris/gohttpclient) [![Go Report Card](https://goreportcard.com/badge/github.com/enriquebris/gohttpclient)](https://goreportcard.com/report/github.com/enriquebris/gohttpclient) [![Build Status](https://travis-ci.org/enriquebris/gohttpclient.svg?branch=master)](https://travis-ci.org/enriquebris/gohttpclient)
+
 # GOlang HTTP client
 
 ### What is this?
