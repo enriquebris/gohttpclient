@@ -99,5 +99,5 @@ func (st *DefaultResponseWriter) Print(message string) {
 }
 
 func (st *DefaultResponseWriter) Printf(format string, a ...interface{}) {
-	fmt.Fprintf(st.w, format, a)
+	fmt.Fprintf(st.w, format, a...)
 }
